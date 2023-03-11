@@ -1,0 +1,4 @@
+cantidad,precio unitario,producto
+1,40,jabon en polvo
+3,10,esponjas
+2,100,chocolates
